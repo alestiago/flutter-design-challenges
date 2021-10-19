@@ -2,7 +2,7 @@
 
 Aim is to recreate the following screen and animation:
 
-<img src=".git_assets/pizza.gif" width="1000">
+<img src=".git_assets/pizza.gif" width="600">
 
 ### Resources
 
